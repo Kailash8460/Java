@@ -12,12 +12,12 @@ public class FirstNonRepeatCharacterPrint {
         if (result1 != 0) {
             System.out.println("First non repeatable character is (result1): " + result1);
         } else {
-            System.out.println("No repeatable character found.");
+            System.out.println("No non-repeatable character found.");
         }
         if (result2 != 0) {
             System.out.println("First non repeatable character is (result2): " + result2);
         } else {
-            System.out.println("No repeatable character found.");
+            System.out.println("No non-repeatable character found.");
         }
         sc.close();
     }
