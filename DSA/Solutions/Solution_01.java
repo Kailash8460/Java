@@ -12,6 +12,6 @@ public class Solution_01 {
                 max = arr[i];
             }
         }
-        System.out.println("The largest element in the array is: " + max);
+        System.out.println(max);
     }
 }
