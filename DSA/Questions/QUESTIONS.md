@@ -110,3 +110,27 @@ Explanation: Zero affects all products except its own position.
 ### Solution: 
 
 Go to the **Solution_04.java** file.
+
+## Question 5:
+
+Find the contiguous subarray within a one-dimensional array that has the largest sum.
+
+### Samples:
+
+```text
+Input 1: [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+Output: 6
+Explanation: Subarray [4, -1, 2, 1] gives sum = 6.
+
+Input 2: [1, 2, 3, 4]
+Output: 10
+Explanation: Entire array gives maximum sum.
+
+Input 3: [-1, -2, -3, -4]
+Output: -1
+Explanation: Maximum single element is -1.
+```
+
+### Solution: 
+
+Go to the **Solution_05.java** file.
