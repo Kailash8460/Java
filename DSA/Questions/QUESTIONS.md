@@ -134,3 +134,27 @@ Explanation: Maximum single element is -1.
 ### Solution: 
 
 Go to the **Solution_05.java** file.
+
+## Question 6:
+
+Find the maximum product of a contiguous subarray within a one-dimensional array.
+
+### Samples:
+
+```text
+Input 1: [2, 3, -2, 4]
+Output: 6
+Explanation: Subarray [2, 3] gives product = 6.
+
+Input 2: [-2, 0, -1]
+Output: 0
+Explanation: Maximum product is 0.
+
+Input 3: [-2, 3, -4]
+Output: 24
+Explanation: (-2 × 3 × -4) = 24.
+```
+
+### Solution: 
+
+Go to the **Solution_06.java** file.
