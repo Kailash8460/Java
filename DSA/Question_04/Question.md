@@ -1,10 +1,10 @@
 # Data Structure and Algorithms
 
-## Question 4:
+## Question 4
 
 Given an array of integers, return an array where each element is the product of all other elements.
 
-### Samples:
+### Samples
 
 ```text
 Input 1: [1, 2, 3, 4]
@@ -20,6 +20,6 @@ Output: [0, 12, 0, 0]
 Explanation: Zero affects all products except its own position.
 ```
 
-### Solution: 
+### Solution
 
 Go to the **Solution.java** file.

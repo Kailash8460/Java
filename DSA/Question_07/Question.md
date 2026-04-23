@@ -1,10 +1,10 @@
 # Data Structure and Algorithms
 
-## Question 7:
+## Question 7
 
 Given a sorted array that has been rotated, search for a target value.
 
-### Samples:
+### Samples
 
 ```text
 Input 1: [4, 5, 6, 7, 0, 1, 2] 
@@ -43,6 +43,6 @@ Output: 3
 Explanation: Standard solution may fail if not careful.
 ```
 
-### Solution: 
+### Solution
 
 Go to the **Solution.java** file.

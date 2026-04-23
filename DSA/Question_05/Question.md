@@ -1,10 +1,10 @@
 # Data Structure and Algorithms
 
-## Question 5:
+## Question 5
 
 Find the contiguous subarray within a one-dimensional array that has the largest sum.
 
-### Samples:
+### Samples
 
 ```text
 Input 1: [-2, 1, -3, 4, -1, 2, 1, -5, 4]
@@ -44,6 +44,6 @@ Output: 15
 Explanation: Reset after -100 → [7,8]
 ```
 
-### Solution: 
+### Solution
 
 Go to the **Solution.java** file.

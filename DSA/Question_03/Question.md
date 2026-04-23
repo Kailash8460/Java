@@ -1,10 +1,10 @@
 # Data Structure and Algorithms
 
-## Question 3:
+## Question 3
 
 Given an array of stock prices, determine the maximum profit obtainable by buying once and selling once.
 
-### Samples:
+### Samples
 
 ```text
 Input 1: [7, 1, 5, 3, 6, 4]
@@ -32,6 +32,6 @@ Output: 0
 Explanation: You can’t sell after buying → no transaction possible.
 ```
 
-### Solution: 
+### Solution
 
 Go to the **Solution.java** file.

@@ -1,10 +1,10 @@
 # Data Structure and Algorithms
 
-## Question 1:
+## Question 1
 
 Given an array of integers, find the largest element.
 
-### Samples:
+### Samples
 
 ```text
 Input 1: [3, 7, 2, 9, 5]
@@ -20,6 +20,6 @@ Output: -1
 Explanation: Among negative numbers, -1 is the largest.
 ```
 
-### Solution: 
+### Solution
 
 Go to the **Solution.java** file.

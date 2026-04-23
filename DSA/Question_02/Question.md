@@ -1,10 +1,10 @@
 # Data Structure and Algorithms
 
-## Question 2:
+## Question 2
 
 Given an array of integers and a target sum, determine if any two numbers sum up to the target.
 
-### Samples:
+### Samples
 
 ```text
 Input 1: [2, 7, 11, 15]
@@ -23,6 +23,6 @@ Output: false
 Explanation: No pair sums to 7.
 ```
 
-### Solution: 
+### Solution
 
 Go to the **Solution.java** file.

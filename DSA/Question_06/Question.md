@@ -1,10 +1,10 @@
 # Data Structure and Algorithms
 
-## Question 6:
+## Question 6
 
 Find the maximum product of a contiguous subarray within a one-dimensional array.
 
-### Samples:
+### Samples
 
 ```text
 Input 1: [2, 3, -2, 4]
@@ -48,6 +48,6 @@ Output: 12
 Explanation: Ignore left part → [3,4]
 ```
 
-### Solution: 
+### Solution
 
 Go to the **Solution.java** file.
