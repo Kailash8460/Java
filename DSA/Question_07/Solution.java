@@ -1,6 +1,6 @@
-package DSA.Solutions;
+package DSA.Question_07;
 
-public class Solution_07 {
+public class Solution {
     public static void main(String[] args) {
         // Linear Search
         int[] arr = {4, 5, 6, 7, 0, 1, 2};

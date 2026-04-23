@@ -1,6 +1,6 @@
-package DSA.Solutions;
+package DSA.Question_04;
 
-public class Solution_04 {
+public class Solution {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4};
         // int[] arr = {2, 3, 4, 5};
